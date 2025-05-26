@@ -158,6 +158,11 @@ wherever works best).
 
 ## The Ruins
 
+> At the base of the the cliffs you see a stone door. A few feet away
+> is masonry stone wall covered in (Naacal-style) murals. Another wall
+> stands just at the foot of the cliff; an eye the size of a
+> watermelon has been carved into the rock.
+
 ### The Door
 
 > The construction’s stone, filigree-covered door stands 10 feet tall
